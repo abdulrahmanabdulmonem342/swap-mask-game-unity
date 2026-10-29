@@ -5,6 +5,11 @@
 
 ---
 
+## 📊 Gameplay Preview
+![Swap Mask Gameplay](gameplay.png)
+
+---
+
 ## 🎮 Gameplay & Mechanics
 * **Level Progression:** Multi-stage movement mechanics where the player controls the character through environmental challenges to collect golden coins at the end of each stage.
 * **Core Controls:** Smooth 2D character movement, jump physics, and stage completion detection.
